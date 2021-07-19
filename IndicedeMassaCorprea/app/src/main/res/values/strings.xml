@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Indice de Massa Corpórea</string>
+    <string name="txt_baixo">Seu peso é Baixo</string>
+    <string name="txt_normal">Seu peso é Normal</string>
+    <string name="txt_sobrepeso">Você está em Sobrepeso</string>
+    <string name="txt_obesidadeg1">Você está em Situação de Obesidade - Grau I</string>
+    <string name="txt_obesidadeg2">Você está em Situação de Obesidade Severa -Grau II</string>
+    <string name="txt_obesidadeg3">Você está em Situação de Obesidade Mórbida -Grau III</string>
+</resources>
